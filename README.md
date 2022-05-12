@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Free Gift</h2>
+				<h1>Magento 2 Free Gift</h1>
 				<p><strong><a href="https://www.mageants.com/free-gift-for-magento-2.html">Magento 2 Free Gift</strong></a> gives a gift offered to the store owner, which they give to their customers on purchase of some selected products to increase the sale.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>It helps in adding the gift items to the customer's cart automatically so that they can get the best offers.</li>
 						<li>The software keeps on updating the latest gift items in the main product.</li>
